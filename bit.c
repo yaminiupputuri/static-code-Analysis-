@@ -23,7 +23,7 @@ void bit_print(int a)
 }
 
 int main()
-{
+
 	int number;
 
 	for(number = 0; number <= 16; ++number)
